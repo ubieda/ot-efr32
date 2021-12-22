@@ -54,6 +54,7 @@ set(EFR32_COMMON_SOURCES
     src/startup-gcc.c
     src/system.c
     src/uart.c
+    src/gpio.c
 )
 
 set(EFR32_INCLUDES
